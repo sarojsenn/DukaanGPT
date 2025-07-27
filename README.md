@@ -178,7 +178,7 @@ studio-main/
 
 ### *1. Clone the Repository*
 bash
-git clone https://github.com/Innovata07/DukaanGPT.git
+git clone (https://github.com/sarojsenn/DukaanGPT.git)
 cd DukaanGPT
 
 
